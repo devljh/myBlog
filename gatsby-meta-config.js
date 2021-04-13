@@ -1,6 +1,6 @@
 module.exports = {
-  hometitle: `L&J Blog Starter`, // 브라우저 탭에 표시될 블로그 이름.(조금만 길어도 짤리므로, 짧고 강한 이름 추천 ^^;)
-  title: `L&J Blog Starter`, //메인페이지에 표시될 블로그 이름
+  hometitle: `지환블로그`, // 브라우저 탭에 표시될 블로그 이름.(조금만 길어도 짤리므로, 짧고 강한 이름 추천 ^^;)
+  title: `지환블로그`, //메인페이지에 표시될 블로그 이름
   description: `L&J 블로그`,
   author: `L&J`, // 메인페이지 > Written by 뒤에 들어갈 이름
   introduction: `L&J 블로그에 오신것을 환영합니다.`,
